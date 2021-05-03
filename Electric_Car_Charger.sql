@@ -1,0 +1,1 @@
+SELECT * FROM electric_car_charger.ev_chargingpoints_table;
