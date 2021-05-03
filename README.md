@@ -1,4 +1,4 @@
 # Electric-vehicle-charging-points
 
-1. [Planning](docs/planning.md)
-2. [Requirements](docs/requirements.md)
+1. [Planning](docs/Planning.md)
+2. [Requirements](docs/Requirements.md)
