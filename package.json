@@ -1,0 +1,22 @@
+{
+  "name": "ev_chargepoints",
+  "version": "1.0.0",
+  "description": "\"\",",
+  "main": "Databaseloader.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\"\\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io/issues"
+  },
+  "homepage": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
