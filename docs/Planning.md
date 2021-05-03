@@ -1,0 +1,6 @@
+Planning
+
+Project proposal:
+ Our goal is to allow an easy method of locating the nearest electric vehicle charging point for electric car owners in Bristol. With electric cars dating back to even 1884 by Hungarian engineer ‘Anyos Jedlik’. The reason why electric cars back then were not successful was mainly because of efficiency problems like the battery being unable to be reliable for over an hour and having a low top speed. The cost of electric cars was also very expensive compared to normal petrol vehicles at the time. Back in 1912, you could purchase and own one for $1750 while a crude oil vehicle would cost around $650. 
+
+Recently, from 2010-2016 over 1 million electric cars were sold around the world. This change led to more electric cars being made by organisations like Tesla and have now modernised electric vehicles leading to electric car chargers having a total of 9,300 charging points in the UK as of August 15th 2019. When considering all this information with the recent uprising in demand for electric cars we decided to establish a way to allow a simple process of entering the location and receiving results instantly on where a driver would need to go to charge their car. 
