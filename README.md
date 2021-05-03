@@ -6,4 +6,4 @@
 4. [Implementation]
 5. [Testing]
 6. [Deployment]
-7. [Sources of information](docs/Sources of information.md)
+7. [Sources of information](docs/Sources-of-information.md)
