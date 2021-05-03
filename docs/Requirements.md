@@ -17,6 +17,8 @@ The second use case would be to find out the status of each charging point.
 
 Use Case Diagram:
 
+<img width="679" alt="Screenshot 2021-05-03 at 21 01 18" src="https://user-images.githubusercontent.com/83363471/116926803-be018b00-ac52-11eb-8dad-6e0acfaf44ec.png">
+
 
 Functional requirements:
 FR1: The program must start at the home page showing the title of the service and the input box below to make it clear this is for electric car users. (UC1)
