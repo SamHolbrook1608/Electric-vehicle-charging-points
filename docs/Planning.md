@@ -17,3 +17,5 @@ Options considered:
  The product we are making has a result some services already offer. For example, Google maps provides a satellite view option with a search engine to show and give directions to anyone searching for electric vehicle chargers and how far the distance is. There is also a website with the URL of https://www.carwow.co.uk/electric-cars/charging-points that lets you enter your location to see a map of local charging points. Considering this information our product will not be a niche idea but still has potential to be innovative with features to be added in the future.
 
 Project scope - 
+
+<img width="1057" alt="Screenshot 2021-05-03 at 20 56 57" src="https://user-images.githubusercontent.com/83363471/116926320-2603a180-ac52-11eb-9d2d-c5a70dd05d2d.png">
