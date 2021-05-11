@@ -7,4 +7,5 @@
 ├── main.js: The main javascript file that will process query inputs from the user. For example, when the user wants to see the results from the database this file will process this to obtain the database table.
 ├── package-lock.json: This file is intended to be committed into source repositories.
 ├── package.json: This stores node packages on file for the user to access what packages have been installed and saved.
+├── head.ejs: This is a template for the index.ejs to use to help format the look of the webpage
 ```
