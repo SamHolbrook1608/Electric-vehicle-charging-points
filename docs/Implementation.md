@@ -1,4 +1,4 @@
-# Project structure - 
+# Project structure 
 ```
 ├── UseCase1.html: The home page of the app that shows the title and the input bar prompting the user for their postal code.
 ├── UseCase2.html: The page template that creates an output for the database to be loaded and displayed into.
