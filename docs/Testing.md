@@ -1,3 +1,3 @@
 # Testing
-| Function being tested | Purpose of test | Test result | 
-| --------------------- | --------------- | ----------- | 
+| Test ID | Function being tested | Purpose of test | Test result | 
+| --------| --------------------- | --------------- | ----------- | 
