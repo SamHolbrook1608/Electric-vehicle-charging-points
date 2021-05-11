@@ -2,7 +2,7 @@
 
 1. [Planning](docs/Planning.md)
 2. [Requirements](docs/Requirements.md)
-3. [Design]
+3. [Design](docs/Design.md)
 4. [Implementation]
 5. [Testing]
 6. [Deployment]
