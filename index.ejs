@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <%- include("templates/head.ejs"); %>
+</head> 
+<!--The coding in the style section will establish the data table to be in the centre of the page along with adding borderlines around to organise data-->
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    
+    table.center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+<style>
+    .center2 {
+    margin: 0;
+    position: auto;
+    top: 50%;
+    -ms-transform: translateX(34%);
+    transform: translateX(34%);
+}
+</style>
+<body>
+
+    <body style="background-color:DodgerBlue;">
+        <!--This changes the colour of the background to Dodger blue-->
+        <h1 style="text-align:center">Charging point status</h1>
+            <!--This will be the overhead title on the actual page at the top-->
+            <h2 style="text-align:center">Below is a table displaying which charging points are active and inactive in your area.</h2>
+            <!--This will be the sub message in a smaller font size under the title-->
+            <div class="center2">
+                <button class="w3-bar-item w3-button w3-ripple"
+                onclick="location.href='index.html?type=Electric Car CHarger';">Click Here To Show: Electric Car Charger Database</button>
+            </div>
+
+        <table class="center"><body>
+        <!--The list below establishes what the top sections of the data table will display for the user-->
+            <tr><th>ID</th><th>Site Name</th><th>Status</th><th>Postal code</th><th>Coordinates</th></tr>
+            <% for (var i = 0; i < rows.length; i++) { %>
+            <tr>
+                <td><%= rows[i]['ï»¿ID'] %></td>
+                <td><%= rows[i]['Site_name'] %></td>
+                <td><%= rows[i]['Status'] %></td>
+                <td><%= rows[i]['Postal code'] %></td>
+                <td><%= [rows[i]['Coordinates'] %></td>
+            </tr>
+            <% } %>
+        </body></table>
+    </body>
+
+
+</html>
