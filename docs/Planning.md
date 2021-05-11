@@ -1,21 +1,21 @@
-Planning
+# Planning
 
-Project proposal:
+## Project proposal:
  Our goal is to allow an easy method of locating the nearest electric vehicle charging point for electric car owners in Bristol. With electric cars dating back to even 1884 by Hungarian engineer ‘Anyos Jedlik’. The reason why electric cars back then were not successful was mainly because of efficiency problems like the battery being unable to be reliable for over an hour and having a low top speed. The cost of electric cars was also very expensive compared to normal petrol vehicles at the time. Back in 1912, you could purchase and own one for $1750 while a crude oil vehicle would cost around $650. 
 
 Recently, from 2010-2016 over 1 million electric cars were sold around the world. This change led to more electric cars being made by organisations like Tesla and have now modernised electric vehicles leading to electric car chargers having a total of 9,300 charging points in the UK as of August 15th 2019. When considering all this information with the recent uprising in demand for electric cars we decided to establish a way to allow a simple process of entering the location and receiving results instantly on where a driver would need to go to charge their car. 
 
-Problem statement: 
+## Problem statement: 
  The main problem to address is how we will be able to get exact locations of where charging points are placed around Bristol using reliable information to input towards our database. The solution to this is using a reliable and accurate source of public information like Google maps to show us locations of charging points to allow a dedicated and accurate database. Other problems that would be addressed in the further future after completion of the product would be that we will need to realise and solve as a team is how we will be able to update our database as more and more charging points will be introduced. The simple solution is to create a plan for updating the table every 2-3 months as plans will be made by 2030 for the government to enforce Electric cars to be the only type of cars to be sold. If this rule is enforced by 2030 then it is most likely that the number of charging points in Bristol will go up as they attempt to reduce Co2 emissions given from petrol and diesel vehicles. The harder solution will be to have a source that will be updated regularly as to when new charging points are installed around the city. We will also have to decide how maintenance would theoretically work whether it would be us updating the database or if we hired a team of people to do that task instead.
  
- Advantages/Disadvantages:
+ ## Advantages/Disadvantages:
  A big advantage to this product is that Electric cars will soon become common in the next 10-20 years as the advancing technology will make them more affordable and efficient compared to older models. This will become an advantage for the product because there will be an increase in demand for using car charging points and drivers are most likely going to want to quickly find the nearest charging point if they have been driving for an extended period of time. With our product being so simple to use it is most probable that Electric vehicle drivers will want to use our database to easily plan when and where they will need to drive so that they can keep their car battery charged.  
 
 A disadvantage can be that with regular maintenance to update our databases can cause a sense of unreliability for our users if they need to use our service to find a charging point and the servers are down when they need the information. This can be solved by being quick to revise our databases but down time for the servers including stopping, restarting and checking everything is working will be unavoidable when it comes to changing the database.
 
-Options considered:
+## Options considered:
  The product we are making has a result some services already offer. For example, Google maps provides a satellite view option with a search engine to show and give directions to anyone searching for electric vehicle chargers and how far the distance is. There is also a website with the URL of https://www.carwow.co.uk/electric-cars/charging-points that lets you enter your location to see a map of local charging points. Considering this information our product will not be a niche idea but still has potential to be innovative with features to be added in the future.
 
-Project scope - 
+## Project scope - 
 
 <img width="1057" alt="Screenshot 2021-05-03 at 20 56 57" src="https://user-images.githubusercontent.com/83363471/116926320-2603a180-ac52-11eb-9d2d-c5a70dd05d2d.png">
