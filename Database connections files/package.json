@@ -1,0 +1,28 @@
+{
+  "name": "ev_chargepoints",
+  "version": "1.0.0",
+  "description": "\"\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\"\\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io/issues"
+  },
+  "homepage": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "live-server": "^1.2.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0"
+  }
+}
