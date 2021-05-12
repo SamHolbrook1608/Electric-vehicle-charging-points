@@ -21,10 +21,10 @@ The second use case would be to find out the status of each charging point.
 
 
 ## Functional requirements
-FR1: The program must start at the home page showing the title of the service and the input box below to make it clear this is for electric car users. (UC1)
-FR2: The program must prompt the user to input their postal code. (UC1)
-FR3: The program must retrieve the desired data from the Bristol area from the available database that is connected through mySQL workbench. (UC2)
-FR4: The program must display the results shown from the table to the user with what charging points are active or inactive along with the location and who it is maintained by. (UC2)
+* FR1: The program must start at the home page showing the title of the service and the input box below to make it clear this is for electric car users. (UC1)
+* FR2: The program must prompt the user to input their postal code. (UC1)
+* FR3: The program must retrieve the desired data from the Bristol area from the available database that is connected through mySQL workbench. (UC2)
+* FR4: The program must display the results shown from the table to the user with what charging points are active or inactive along with the location and who it is maintained by. (UC2)
 
 ## Non-functional requirements
 * NFR1: It must include bringing the user to the next web page showing the data table after inputting their postal code. (UC1, UC2)
