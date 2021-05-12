@@ -13,4 +13,4 @@ This list shows every file needed to make our app perform its use.
 ```
 ## Software Architecture 
 The strcutre of this diagram shows the background processes that will occur when the user accesses the webapp. When the user access the webapp, the webapp will call towards the web server to allow a connection between the user and the database. The database will be requested for access by the user and the database will provide the information as intended by the maintainer towards the webapps display function to show the user.
-![Processes](https://user-images.githubusercontent.com/83363471/118052276-5944df80-b37a-11eb-8180-a19c546fc2a7.PNG)
+![ProcessesUML](https://user-images.githubusercontent.com/83363471/118052921-847bfe80-b37b-11eb-8820-3991108f2dd8.PNG)
