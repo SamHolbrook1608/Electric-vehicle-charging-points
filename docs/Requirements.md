@@ -10,9 +10,9 @@ As an electric vehicle owner, I want to be able to easily and swiftly find the n
 Electric vehicle companies:
 As an electric vehicle company, we want to find out the status of each charging point so that we can deal with any inconveniences and find out what problems arise in an easy and efficient way.
 ## Use Cases
-Use case 1 (UC1): 
+* Use case 1 (UC1) - Gulied Abdi: 
 The first use case will be to find the closest electric vehicle charging point.
-Use case 2 (UC2): 
+* Use case 2 (UC2) - Sam Holbrook: 
 The second use case would be to find out the status of each charging point.
 
 ## Use Case Diagram
