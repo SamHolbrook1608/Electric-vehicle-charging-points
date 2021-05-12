@@ -27,7 +27,7 @@ FR3: The program must retrieve the desired data from the Bristol area from the a
 FR4: The program must display the results shown from the table to the user with what charging points are active or inactive along with the location and who it is maintained by. (UC2)
 
 ## Non-functional requirements
-NFR1: It must include bringing the user to the next web page showing the data table after inputting their postal code. (UC1, UC2)
-NFR2: It could include information on whether or not the charging point is free to use or costs money. (UC2)
-NFR3: It should have all text elements and the data table centred in the middle of the screen. (UC1, UC2)
-NFR4: It won't have an automatic tracker with the website asking for permission to use your location. (UC1)
+* NFR1: It must include bringing the user to the next web page showing the data table after inputting their postal code. (UC1, UC2)
+* NFR2: It could include information on whether or not the charging point is free to use or costs money. (UC2)
+* NFR3: It should have all text elements and the data table centred in the middle of the screen. (UC1, UC2)
+* NFR4: It won't have an automatic tracker with the website asking for permission to use your location. (UC1)
