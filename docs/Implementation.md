@@ -11,3 +11,4 @@ This list shows every file needed to make our app perform its use.
 ├── package.json: This stores node packages on file for the user to access what packages have been installed and saved.
 ├── head.ejs: This is a template for the index.ejs to use to help format the look of the webpage
 ```
+## Software Architecture 
