@@ -1,7 +1,7 @@
 # Deployment
 ## Release notes
 This version of our webapp is v1.0-alpha-0.
-## Home page (Use Case 1)
+## Home page (Use Case 1) - Gulied Abdi
 The UI of the webpage is really simple and easy to use. It is a simple search engine which is clear and can be accessed on all platforms (PC,Mobile, ect..).
 The user can find the nearest charging point and the status with only a few clicks. The UI colour is really pleasing and easy on the eye to make it comfortable for the user. We decided to go with a minimal approach to make it simple and straightforward for the user to use the product.
 ![UI](https://user-images.githubusercontent.com/79972723/117897648-1ff96a80-b2bb-11eb-8995-fb4ac34a3c2e.png)
