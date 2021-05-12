@@ -12,3 +12,5 @@ This list shows every file needed to make our app perform its use.
 ├── head.ejs: This is a template for the index.ejs to use to help format the look of the webpage
 ```
 ## Software Architecture 
+
+![Processes](https://user-images.githubusercontent.com/83363471/118052276-5944df80-b37a-11eb-8180-a19c546fc2a7.PNG)
