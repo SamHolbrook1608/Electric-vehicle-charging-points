@@ -5,7 +5,7 @@ const mysql = require('mysql');
 
 const PORT = 8080;
 
-const QUERY = "SELECT * FROM electric_car_charger.ev_chargingpoints_table;";
+const QUERY = "SELECT * FROM kqzon1pnidw92k8m.Ev_ChargingPoints_Table;";
 
 var app = express();
 
@@ -29,10 +29,10 @@ app.get("/", splash);
 app.get("/index.html", splash);
 
 var connection = mysql.createConnection({
-    "host": "localhost",
-    "user": "root",
-    "password": "Nimneus6000!",
-    "database": "electric_car_charger"
+    "host": "eporqep6b4b8ql12.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "user": "dk31l2ckguh17xh1",
+    "password": "udcozqbmxx87yvxa",
+    "database": "kqzon1pnidw92k8m"
 });
 
 connection.connect(function(err) {
