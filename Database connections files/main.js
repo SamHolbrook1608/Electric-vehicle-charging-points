@@ -43,5 +43,5 @@ connection.connect(function(err) {
     }
 });
 
-app.listen(PORT);
-console.log("Listening on port %s", PORT);
+process.env.PORT = process.env.PORT || conf[process.env.NODE_ENV].port;
+var database = process.env.JAWSDB_MARIA_URL || conf[process.env.NODE_ENV].db;
