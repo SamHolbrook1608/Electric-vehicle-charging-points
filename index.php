@@ -1,10 +1,10 @@
 <?php 
 
-include("main.js");
-include("index.html"); 
-include("head.ejs"); 
-include("db-connect.js");
-include("package-lock.json");
-include("package.json");
+include_once("main.js");
+include_once("index.html"); 
+include_once("head.ejs"); 
+include_once("db-connect.js");
+include_once("package-lock.json");
+include_once("package.json");
 
 ?>
