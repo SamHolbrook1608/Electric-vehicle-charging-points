@@ -4,7 +4,9 @@
   "description": "\"\",",
   "main": "index.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\"\\ && exit 1"
+    "test": "echo \\\"Error: no test specified\"\\ && exit 1",
+    "testcafe": "testcafe chrome e2e",
+    "start": "node main"
   },
   "repository": {
     "type": "git",
@@ -21,9 +23,13 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "live-server": "^1.2.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "unit.js": "^2.1.1"
   },
   "devDependencies": {
     "eslint-config-google": "^0.14.0"
+  },
+  "engines": {
+    "node": "14.16.1"
   }
 }
