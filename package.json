@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io.git"
+    "url": "git+https://github.com/SamHolbrook1608/Electric_Car_ChargingPoints.GitHub.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io/issues"
+    "url": "https://github.com/SamHolbrook1608/Electric_Car_ChargingPoints.GitHub.io/issues"
   },
-  "homepage": "https://github.com/SamHolbrook1608/SamHolbrook1608.GitHub.io#readme",
+  "homepage": "https://github.com/SamHolbrook1608/Electric_Car_ChargingPoints.GitHub.io#readme",
   "dependencies": {
     "ci": "^2.1.1",
     "ejs": "^3.1.6",
