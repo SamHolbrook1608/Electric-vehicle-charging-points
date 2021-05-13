@@ -3,7 +3,7 @@
 | ------- | --------------------- | --------------- | ----------- |
 | Test - 01 | Use case 1 is operable | The HTML file is successful when executed | Pass |
 | Test - 02 | Use case 2 basic design is shown | The HTML file that will act as a template for the database to load into successfully shows | Pass |
-| Test - 03 | 
+| Test - 03 | The database results page is able to successfully connect to mysql and show the saved database | When the user reaches the second page, they should be able to see what charging points are active and their exact location displayed on the web page | Pass |
 
 This picture shows the result of attempting to connect to using JavaScript and using a node command to show the results of the database in the command prompt. The database was able to successfully be reached by the JavaScript.
 ![testdbconnect](https://user-images.githubusercontent.com/83363471/118056637-33bbd400-b382-11eb-9e22-c9a4101180b5.PNG)
