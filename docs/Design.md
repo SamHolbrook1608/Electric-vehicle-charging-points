@@ -1,5 +1,6 @@
 # User Interface Design
 ## Behaviour design
+This UML shows how the process works when the user interacts with the webapp and all the background processes that occur when trying to display the results back to the user. 
 ![DesignUML](https://user-images.githubusercontent.com/83363471/118052918-82b23b00-b37b-11eb-898b-8345b23a6881.PNG)
 ## Wireframe
 This wireframe shows the outline of how the website will look. This is a very simple version of how our product will look once it is finished. This is the guide we will be following to create this. The first use case is shown as a simple search engine which the user adds in the desired postcode and the closest point shows up. The second use case is a table showing the status of each charging point
