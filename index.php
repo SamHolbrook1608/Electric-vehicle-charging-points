@@ -5,6 +5,5 @@ include_once("head.ejs");
 include_once("index.ejs"); 
 include_once("package-lock.json");
 include_once("package.json"); 
-include_once("db-connect.js");
 
 ?>
